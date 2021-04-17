@@ -1,0 +1,59 @@
+[33mcommit 584ca614fec11a3ae7653f06ad699947cc2934c3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: oladotun <aboabaoladotun@gmail.com>
+Date:   Sat Apr 17 16:44:51 2021 +0100
+
+    server fix
+
+[33mcommit 7ce48caa89ebe9a916f3ca198da34d9f4935021a[m
+Author: oladotun <aboabaoladotun@gmail.com>
+Date:   Sat Apr 17 14:43:30 2021 +0100
+
+    hard code heroku config var
+
+[33mcommit 6c8107b0262a52599c2d85173262aed72cef3093[m
+Author: oladotun <aboabaoladotun@gmail.com>
+Date:   Sat Apr 17 14:01:49 2021 +0100
+
+    readme edit
+
+[33mcommit 8ceb1b6b9baa06640e62ed2bd1d7812083f3f0aa[m
+Author: oladotun <aboabaoladotun@gmail.com>
+Date:   Sat Apr 17 12:39:56 2021 +0100
+
+    initial commit
+
+[33mcommit ee851d1afc8e1f0951a060e6fd4070668d175325[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: oladotun <aboabaoladotun@gmail.com>
+Date:   Tue Apr 13 15:14:43 2021 +0100
+
+    project commit
+
+[33mcommit 20d79fc7c0fb944b5c4dde571e6ec9cbe8de559c[m
+Author: Fatimah <daviesfatimah97@gmail.com>
+Date:   Mon Apr 12 17:17:46 2021 -0700
+
+    a simple todo app with reactjs
+
+[33mcommit 4d279d651ab62df5b59d8a3f4d4fafaafeef5a3c[m
+Author: Fatimah <daviesfatimah97@gmail.com>
+Date:   Mon Apr 12 12:14:40 2021 -0700
+
+    .
+
+[33mcommit ee69139b3be4e07522f416a342ce085866074dec[m
+Author: Fatimah <daviesfatimah97@gmail.com>
+Date:   Mon Apr 12 10:39:08 2021 -0700
+
+    .
+
+[33mcommit 5e93c2c85f0472c052ddebd5674687480a124dd1[m
+Author: Fatimah <daviesfatimah97@gmail.com>
+Date:   Mon Apr 12 10:34:57 2021 -0700
+
+    .
+
+[33mcommit 8fac0ee71a8b7926266ac3ce28b476b656657a6c[m
+Author: Fatimah <daviesfatimah97@gmail.com>
+Date:   Mon Apr 12 08:57:09 2021 -0700
+
+    todo app
